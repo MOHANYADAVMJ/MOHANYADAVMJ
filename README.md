@@ -33,26 +33,31 @@ My goal is to build scalable, reliable and automated cloud infrastructure.
 
 ---
 
-## 🛠️ TECHNICAL SKILLS
 
-### Cloud Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure"/>
+## 🛠️ Tech Stack & Tools
+
+### ☁️ Cloud Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-### DevOps & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,jenkins,ansible,docker,kubernetes"/>
+### ⚙️ DevOps & Infrastructure Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,jenkins,ansible,docker,kubernetes" />
 </p>
 
-### Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github"/>
+### 🔄 Version Control & CI/CD
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-### Programming & Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu"/>
+### 🐧 Operating Systems & Scripting
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" />
 </p>
 
 ---
@@ -76,8 +81,6 @@ My goal is to build scalable, reliable and automated cloud infrastructure.
 ## 🚀 MY PROJECTS
 
 | Project | Technologies |
-|---|---|
-| Azure Infrastructure Automation | Azure, Terraform |
 | AWS Cloud Infrastructure | AWS, EC2, S3, VPC |
 | Jenkins CI/CD Pipeline | Jenkins, Git, Maven |
 | Ansible Automation | Ansible, YAML, Linux |
