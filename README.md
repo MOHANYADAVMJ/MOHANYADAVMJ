@@ -212,6 +212,27 @@ I’ll add verified certification badges and GitHub achievements here as they ar
 
 ---
 
+## 🏗️ Hands-On Project Highlights
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    🏗️ PRODUCTION-READY PROJECTS                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  ✅ Three-Tier Architecture    │  ELB + Auto Scaling + RDS     │
+│  ✅ S3 Cross-Region Replication│  Mumbai → Hyderabad DR Setup  │
+│  ✅ Secure VPC Design          │  Public & Private Subnets     │
+│  ✅ Jenkins CI/CD Pipeline     │  Automated Build & Deploy     │
+│  ✅ S3 Backup Automation       │  Cron + Shell + AWS CLI       │
+│  🔄 Daily AWS Labs             │  Documented Practice Sessions │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+💡 **Every project is designed with a production mindset** — not just certification theory. I focus on **high availability, fault tolerance, security, and cost optimization**.
+
+---
+
 ## 📂 Structured Learning Repositories
 
 <div align="center">
