@@ -15,22 +15,26 @@
 ---
 
 ## 👨‍💻 ABOUT ME
+name: MOHAN YADAV M J
+located_in: Bangalore, India
+education: B.Tech in Electronics and Communication
 
-Hello! I'm **Mohan Yadav M J**, an IT professional interested in Cloud Computing, DevOps Engineering and Infrastructure Automation.
+current_focus: Cloud & DevOps Engineering
+target_roles:
+  - Cloud Engineer
+  - DevOps Engineer
+  - Cloud Support Engineer (L1/L2)
+  - Site Reliability Engineer (Junior)
+  - Infrastructure Engineer
 
-I have experience in managing cloud infrastructure, automating deployments, configuring CI/CD pipelines and supporting production environments.
+philosophy: "I don't just learn tools — I learn why systems fail and how to make them resilient."
 
-- ☁️ Cloud Platforms: AWS & Microsoft Azure
-- 🏗️ Infrastructure as Code: Terraform
-- 🔄 CI/CD: Jenkins
-- ⚙️ Configuration Management: Ansible
-- 🐳 Containerization: Docker
-- ☸️ Container Orchestration: Kubernetes
-- 🐧 Operating Systems: Linux
-- 💻 Scripting: Python & Shell
-
-My goal is to build scalable, reliable and automated cloud infrastructure.
-
+daily_routine:
+  - ☁️ Build & break AWS infrastructure
+  - 🐧 Deep-dive into Linux internals
+  - 🔄 Automate everything with CI/CD
+  - ✍️ Write technical blogs on Medium
+  - 📚 Document learnings as structured notes
 ---
 
 
