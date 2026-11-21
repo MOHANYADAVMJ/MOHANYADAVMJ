@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohan Yadav M J
+                      Mohan Yadav M J
 
 ### ☁️ Cloud & DevOps Engineer | AWS | Infrastructure Automation | JIRA |
 
