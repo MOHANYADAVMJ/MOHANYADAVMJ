@@ -1,4 +1,4 @@
-::: {align="center"}
+
 [MOHAN YADAV]{style="color:#00C9FF"}
 ![Cloud & DevOps](https://img.shields.io/badge/☁️%20CLOUD%20%26%20DEVOPS%20ENGINEER%20%7C%20AWS%20%7C%20AZURE-0D1117?style=for-the-badge)
 ☁️ Building Resilient Cloud Infrastructure
