@@ -36,8 +36,13 @@ daily_routine:
   - ✍️ Write technical blogs on Medium
   - 📚 Document learnings as structured notes
 ---
-
-
+🎯 What I Bring to the Table
+🏗️ Production-ready mindset — Every project built with HA, fault tolerance & scalability in mind
+📝 Technical writer — Complex AWS concepts broken down for real-world understanding
+🔍 Problem solver — I troubleshoot real failures, not just follow tutorials
+🧠 Continuous learner — Daily hands-on labs with documented outcomes
+🤝 Open source contributor — Arctic Code Vault Contributor & Pull Shark on GitHub
+---
 ## 🛠️ Tech Stack & Tools
 
 ### ☁️ Cloud Platforms
