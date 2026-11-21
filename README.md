@@ -15,3 +15,48 @@
 - 📚 Continuously learning and building practical DevOps projects.
 - 🎯 My goal is to design reliable, scalable and automated cloud infrastructure.
 
+## 💡 What I Bring to the Table
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud Infrastructure</h3>
+      <ul>
+        <li>AWS and Azure cloud fundamentals</li>
+        <li>Infrastructure provisioning using Terraform</li>
+        <li>Virtual Machines, networking and storage</li>
+        <li>Identity and access management</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ DevOps & Automation</h3>
+      <ul>
+        <li>Jenkins CI/CD pipeline automation</li>
+        <li>Ansible configuration management</li>
+        <li>Docker containerization</li>
+        <li>Git and GitHub version control</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 Build & Deployment</h3>
+      <ul>
+        <li>Maven build automation</li>
+        <li>Nexus artifact management</li>
+        <li>SonarQube code quality integration</li>
+        <li>Application deployment and support</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐧 Systems & Scripting</h3>
+      <ul>
+        <li>Linux administration</li>
+        <li>Bash scripting fundamentals</li>
+        <li>Python fundamentals</li>
+        <li>Environment configuration and troubleshooting</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
