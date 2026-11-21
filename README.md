@@ -21,7 +21,9 @@
 <div align="center">
 <br/>
 
-<a href="https://github.com/MOHANYADAVMJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/MOHANYADAVMJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://medium.com/@informmohanyadav"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
+<a href="https://www.credly.com/earner/dashboard/home"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 
 </div>
 
@@ -155,7 +157,7 @@ Current focus:
 
 I’m focused on learning and documenting Cloud & DevOps concepts. Blog links will be added here when I publish technical articles.
 
-<img src="https://img.shields.io/badge/Technical_Blogs-Coming_Soon-0d1117?style=for-the-badge&logo=medium&logoColor=white" alt="Technical blogs coming soon"/>
+<a href="https://medium.com/@informmohanyadav"><img src="https://img.shields.io/badge/Read_My_Blogs_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium blogs"/></a>
 
 </div>
 
@@ -167,7 +169,7 @@ I’m focused on learning and documenting Cloud & DevOps concepts. Blog links wi
 
 I’ll add verified certification badges and GitHub achievements here as they are earned and available to showcase.
 
-<img src="https://img.shields.io/badge/Certifications-Updates_Coming_Soon-0d1117?style=for-the-badge&logo= credly&logoColor=white" alt="Certification updates coming soon"/>
+<a href="https://www.credly.com/earner/dashboard/home"><img src="https://img.shields.io/badge/View_My_Credly_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View my Credly badges"/></a>
 
 </div>
 
@@ -231,7 +233,9 @@ I’m interested in connecting with the Cloud & DevOps community, learning from 
 
 <br/>
 
-<a href="https://github.com/MOHANYADAVMJ"><img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/></a>
+<a href="https://github.com/MOHANYADAVMJ"><img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/></a>&nbsp;
+<a href="https://medium.com/@informmohanyadav"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
+<a href="https://www.credly.com/earner/dashboard/home"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 
 <br/><br/>
 
