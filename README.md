@@ -1,190 +1,90 @@
-
-[MOHAN YADAV]
-
-![Cloud & DevOps](https://img.shields.io/badge/☁️%20CLOUD%20%26%20DEVOPS%20ENGINEER%20%7C%20AWS%20%7C%20AZURE-0D1117?style=for-the-badge)
-☁️ Building Resilient Cloud Infrastructure
-⚙️ Automating DevOps Pipelines | CI/CD
-Linux | AWS | Azure | Docker | Jenkins | Terraform
-![Profile](https://komarev.com/ghpvc/?username=MOHANYADAVMJ&style=for-the-badge&color=blue)
-![GitHub](https://img.shields.io/github/followers/MOHANYADAVMJ?style=for-the-badge&color=blue)
-![GitHub](https://img.shields.io/badge/REPOSITORIES-MOHANYADAVMJ-00C9FF?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-:::
+<div align="center">
+<!-- Upload the banner image to this repository at assets/profile-banner.png -->
+<img src="assets/profile-banner.png" alt="Mohan Yadav M J — Cloud & DevOps Engineer" width="100%" />
+MOHAN YADAV M J
+Cloud & DevOps Engineer | AWS | Automation | Observability
+Automate · Deploy · Monitor · Scale
+![GitHub](https://img.shields.io/badge/GitHub-MOHANYADAVMJ-181717?style=for-the-badge&logo=github)
+</div>
 ---
-👨‍💻 About Me
-``` yaml
-name: Mohan Yadav
-github: MOHANYADAVMJ
-current_focus: Cloud & DevOps Engineering
-
-technologies:
-  - AWS
-  - Azure
-  - Linux
-  - Docker
-  - Jenkins
-  - Terraform
-  - Ansible
-  - Maven
-  - SonarQube
-
-daily_routine:
-  - Explore cloud infrastructure
-  - Practice Linux administration
-  - Learn DevOps automation
-  - Build and understand CI/CD pipelines
-  - Document technical learnings
-```
----
-🎯 What I Bring to the Table
-🏗️ Production-minded approach to cloud infrastructure
-📚 Continuous learning and technical documentation
-🔧 Interest in DevOps automation and CI/CD practices
-☁️ Cloud computing and infrastructure fundamentals
-🤝 Collaboration and problem-solving
----
-🛠️ Tech Stack & Tools
-::: {align="center"}
-☁️ Cloud & Infrastructure
-![Amazon](https://img.shields.io/badge/AMAZON%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CLOUDWATCH-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-⚙️ DevOps & Automation
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-🌐 Networking & Security
-![DNS](https://img.shields.io/badge/DNS-0078D4?style=for-the-badge)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-0052CC?style=for-the-badge)
-![Security](https://img.shields.io/badge/SECURITY%20GROUPS-DD344C?style=for-the-badge)
-![Subnets &](https://img.shields.io/badge/SUBNETS%20%26%20NACLS-232F3E?style=for-the-badge)
-💻 Programming & Web
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-:::
----
-🚀 Featured Projects
-The following project links are retained from the supplied reference
-profile. They currently point to repositories owned by
-Satyanarayan4434, not MOHANYADAVMJ.
----
-Project                                                            Reference description   Topics
----
-AWS-BY-SN         Complete AWS Notes,     AWS, EC2, S3, VPC, IAM
-Documentation, Projects
-& Roadmap
-Three-Tier App on AWS       Three-tier architecture JavaScript, ELB, Auto
-reference               Scaling
-Linux-BY-SN     Complete Linux Notes &  Linux, users,
-Projects                permissions, logs
-DevOps-BY-SN   Complete DevOps Notes,  CI/CD, Docker, Jenkins
-Documentation & Roadmap
-S3 Backup Automation        Automated file backup   Shell, S3, AWS CLI
-to Amazon S3
-Jenkins CI/CD Project       CI/CD pipeline          Jenkins, CSS
-reference
----
-🤝 Let's Connect & Collaborate
-::: {align="center"}
-I'm interested in Cloud & DevOps opportunities and learning from
-real-world infrastructure challenges.
-![GitHub](https://img.shields.io/badge/VISIT%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-💼 Open to Roles
-![Cloud](https://img.shields.io/badge/Cloud%20Engineer-FF9900?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps%20Engineer-326CE5?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud%20Support-00C853?style=flat-square)
-![SRE](https://img.shields.io/badge/SRE%20(Junior)-7E57C2?style=flat-square)
-![Infrastructure](https://img.shields.io/badge/Infrastructure%20Engineer-D94F3D?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform%20Engineer-2196F3?style=flat-square)
-:::
----
-📊 GitHub Contributions
-::: {align="center"}
-![Contribution](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-:::
----
-📝 Latest Blog Posts
-The following articles and author link are retained exactly from the
-supplied reference. They are published under Satyanarayan Sen's Medium
-account.
-📌 Why AWS is the Market Leader in Cloud Computing
-(2026)
-> Exploring AWS dominance, market share, and why it's the go-to platform
-> for cloud professionals.
-📌 What is Cloud Computing? Explained for Beginners
-☁️
-> Breaking down cloud fundamentals using everyday analogies and
-> practical scenarios.
-Medium
----
-🏆 Certifications & Achievements
-The following credentials and achievement links are from the supplied
-reference profile and are not represented as Mohan Yadav's
-credentials.
-AWS Certified Cloud Practitioner --- reference Credly
-profile
-Pull Shark --- reference GitHub
-profile
-Arctic Code Vault Contributor --- reference GitHub
-profile
----
-📈 GitHub Analytics
-::: {align="center"}
-![Mohan's GitHub](https://github-readme-stats.vercel.app/api?username=MOHANYADAVMJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9)
-![GitHub](https://github-readme-streak-stats.herokuapp.com/?user=MOHANYADAVMJ&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=FF9900&currStreakLabel=00C9FF)
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANYADAVMJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=C9D1D9&langs_count=8)
-:::
----
-🏗️ Hands-On Project Highlights
-The following project descriptions are reproduced from the supplied
-reference profile.
-``` text
-┌─────────────────────────────────────────────────────────────────┐
-│                    🏗️ PRODUCTION-READY PROJECTS                 │
-├─────────────────────────────────────────────────────────────────┤
-│  ✅ Three-Tier Architecture     │ ELB + Auto Scaling + RDS      │
-│  ✅ S3 Cross-Region Replication │ Mumbai → Hyderabad DR Setup   │
-│  ✅ Secure VPC Design           │ Public & Private Subnets      │
-│  ✅ Jenkins CI/CD Pipeline      │ Automated Build & Deploy      │
-│  ✅ S3 Backup Automation        │ Cron + Shell + AWS CLI        │
-│  ✅ AWS Amplify Deployment     │ GitHub + Amplify Integration  │
-│  🔄 Daily AWS Labs              │ Documented Practice Sessions  │
-└─────────────────────────────────────────────────────────────────┘
-```
-> 💡 The reference describes a production mindset focused on high
-> availability, fault tolerance, security, and cost optimization. These
-> are reference examples, not verified claims about projects completed
-> by MOHANYADAVMJ.
----
-📂 Structured Learning Repositories
-These six repository links are retained from the reference account:
----
-Repository                                                                 Description             Topics
----
-AWS-BY-SN                 Complete AWS Journey    EC2, S3, VPC, IAM, ELB
-DevOps-BY-SN           DevOps Roadmap & Tools  CI/CD, Docker, Jenkins
-Linux-BY-SN             Linux Administration    Users, Permissions,
-Logs
-Python-BY-SN           Python for DevOps       Scripting, Automation
-SQL-BY-SN                 SQL & Database Skills   Queries, Schema Design
-Networking-BY-SN   Networking Fundamentals DNS, TCP/IP, Subnets
----
-::: {align="center"}
-⭐ If you find my work helpful, consider giving a star to my
-repositories!
-:::
+01 · About Me
+Hello! I'm Mohan Yadav M J, focused on cloud infrastructure, DevOps practices, automation, CI/CD, containerization, and monitoring.
+I enjoy building repeatable deployment workflows, working with container platforms, and improving application reliability through observability and automation.
+☁️ Cloud platform: AWS
+⚙️ CI/CD: GitHub Actions, Jenkins
+📦 Containers & orchestration: Docker, Helm
+🏗️ Infrastructure automation: Terraform, Ansible
+📊 Monitoring & logging: Prometheus, Grafana, ELK Stack
+🤝 Collaboration & tracking: Jira, GitHub
+🐧 Systems: Linux
+02 · Tech Stack & Tools
+<div align="center">
+Cloud
+<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+CI/CD & Version Control
+<br/>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Containers & Orchestration
+<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+Infrastructure as Code & Configuration
+<br/>
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+Monitoring, Logging & Collaboration
+<br/>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
+03 · What I Work On
+Building and maintaining CI/CD pipelines
+Containerizing applications with Docker
+Managing Kubernetes application releases with Helm
+Automating infrastructure and configuration with Terraform and Ansible
+Monitoring systems and applications with Prometheus and Grafana
+Centralizing and analyzing logs with the ELK Stack
+Working with AWS and Linux-based environments
+04 · Featured Projects
+> Add your own repository links and short descriptions below. Only publish projects that you have personally built or contributed to.
+Project	What it demonstrates	Repository
+Project 1	CI/CD automation with GitHub Actions or Jenkins	Add repository link
+Project 2	Docker, Helm, and deployment workflow	Add repository link
+Project 3	Monitoring with Prometheus and Grafana, or ELK logging	Add repository link
+05 · Current Focus
+Improving end-to-end CI/CD workflows
+Practicing container orchestration and release management
+Strengthening infrastructure automation
+Building practical monitoring and centralized logging solutions
+06 · GitHub Overview
+<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHANYADAVMJ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANYADAVMJ&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=MOHANYADAVMJ&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+</div>
+07 · Let's Connect
+<div align="center">
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- Add verified LinkedIn, portfolio, and email links here if you want them public. -->
+</div>
+08 · Certifications
+Add only certifications you have earned. Include the credential link when available.
+09 · Achievements
+Add verified awards, milestones, or contributions here. Leave this section out if you have none to list.
+10 · Contribution Activity
+<div align="center">
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANYADAVMJ&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true)
+</div>
+11 · Thanks for Visiting
+<div align="center">
+Thanks for stopping by!
+I'm interested in cloud, DevOps, automation, monitoring, and learning through hands-on projects.
+![Profile views](https://komarev.com/ghpvc/?username=MOHANYADAVMJ&style=for-the-badge&color=00D9FF)
+Automate · Deploy · Monitor · Scale
+</div>
