@@ -233,9 +233,8 @@ I’m interested in connecting with the Cloud & DevOps community, learning from 
 
 <br/>
 
-<a href="https://github.com/MOHANYADAVMJ"><img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/></a>&nbsp;
-<a href="https://medium.com/@informmohanyadav"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
-<a href="https://www.credly.com/earner/dashboard/home"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://www.linkedin.com/in/mohan-m-j-7140b2114/"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect on LinkedIn"/></a>&nbsp;
+<a href="mailto:informmohanyadav@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
 
 <br/><br/>
 
